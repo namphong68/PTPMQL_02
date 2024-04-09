@@ -52,3 +52,4 @@ C:\Net_core_API\MvcMovie\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
 C:\Net_core_API\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Net_core_API\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Net_core_API\MvcMovie\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Net_core_API\MvcMovie\obj\Debug\net7.0\MvcMovie.sourcelink.json
